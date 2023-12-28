@@ -1,0 +1,32 @@
+<?php
+
+return [
+    "login"  =>  "login page",
+    "home"      =>  "Home",
+    "sections"  =>  "Sections",
+    "settings"  =>  "Settings",
+    "section_name"  =>  "Section name",
+    "notes"     =>  "Notes",
+    "setings"   =>  "Settings",
+    "description"   =>  "Description",
+    "add_section"   => "add section",
+    "save_changes"  =>  "Save changes",
+    "close"         =>  "Close",
+    "error_the_section_is_found_before"          =>  "Error the section is found before",
+    "the_section_added_successfully"            =>  "The section added successfully",
+    "section_name_empty"    =>  "enter section name",
+    "section_name_unique"   =>  "the section name is exists before",
+    "section_description_empty" =>  "enter description for section ",
+    "edit"  => "edit",
+    "close"  => "close",
+    "section_edit"  =>  "section edit"  ,
+    "section_name"  =>  "section name"  ,
+    "sure"  =>  "sure" ,
+    "section_close" =>  "section close",
+    "are_you_sure_to_exit"  => "Are you sure to delete",
+    "section_deleted_successfully" => "Section Deleted Successfully" ,
+    "products"  => "Products",
+    "add_product"   => "add product",
+    "product_name"  => "product name",
+
+];
